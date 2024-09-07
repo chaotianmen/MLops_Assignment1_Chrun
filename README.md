@@ -17,7 +17,7 @@ The goal is to develop a machine learning model to predict customer churn using 
 ## Running Files
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements_py3.10.txt
    ```
 2. Run the churn library:
    ```bash
