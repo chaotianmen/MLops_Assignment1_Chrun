@@ -1,6 +1,15 @@
 """
 This module contains test functions for the churn library, which includes data import, EDA, encoding, 
 feature engineering, and model training.
+This module will be used to test:
+    1. import_data
+    2. peform_eda
+    3. encode_data
+    4. perform_feature_engineering
+    5. train_test_model
+
+Author: Zijin Gu
+Date: 2024/09/06
 """
 
 import os

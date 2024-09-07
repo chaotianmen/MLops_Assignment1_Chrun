@@ -1,6 +1,9 @@
 """
 This module contains functions for dealing with Churn data, which includes data import, EDA, encoding, 
 feature engineering, and model training.
+
+Author: Zijin Gu
+Date: 2024/09/06
 """
 
 
